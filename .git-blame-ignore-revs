@@ -8,7 +8,7 @@
 #
 # $ git config blame.ignoreRevsFile .git-blame-ignore-revs
 
-# r365730: [Coding style change][lld] Rename variables for non-ELF ports
+# r368670: [Coding style change][lld] Rename variables for non-ELF ports
 136d27ab4de0c1d5dedfecc32a9857be78fa0648
 
 # r365595: [Coding style change] Rename variables so that they start with a lowercase letter
